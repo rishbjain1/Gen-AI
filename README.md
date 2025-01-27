@@ -26,7 +26,7 @@ As part of this project, I collaborated closely with the director to visualize a
 ## **Files Included**
 
 - **Mood Boards**: AI-generated visuals for key scenes.
-- **Project Insights**: Documentation explaining the creative process and the impact of the visuals on the production.
+- **Screenplay Order**: AI-generated visuals for the entire scene by scene
 
 ---
 
